@@ -21,3 +21,6 @@ Keys should **never** be stored in application code. An attacker gaining read ac
 
 - [OWASP/wrongsecrets: Vulnerable app with examples showing how to not use secrets (github.com)](https://github.com/OWASP/wrongsecrets)
 
+# Related CWEs
+
+- [CWE - CWE-321: Use of Hard-coded Cryptographic Key (4.10) (mitre.org)](https://cwe.mitre.org/data/definitions/321.html)
