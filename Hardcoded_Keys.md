@@ -11,7 +11,7 @@ Keys should **never** be stored in application code. An attacker gaining read ac
 
 ## Platform Guidance
 |                |Article|
-|----------------|-------------------------------|-----------------------------|
+|----------------|-------------------------------|
 |AWS     |[What is AWS Secrets Manager? - AWS Secrets Manager (amazon.com)](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)            |
 |Azure   |[Key and secret management in Azure - Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/security/design-storage-keys) |
 |ASP.NET|[Safe storage of app secrets in development in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows&viewFallbackFrom=aspnetcore-2.2#access-a-secret)|
