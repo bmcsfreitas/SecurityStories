@@ -1,4 +1,4 @@
-# User STory - Key Storage
+# User Story - Key Storage
 
 **Story:** Keys should **never** be stored in application code. An attacker gaining read access to source code shouldn't gain knowledge of application and environment-specific secrets.
 
