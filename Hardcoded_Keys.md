@@ -10,7 +10,7 @@ Keys should **never** be stored in application code. An attacker gaining read ac
 - [Cryptographic Storage - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
 
 ## Platform Guidance
-|                |Article|
+|Platform    |Article|
 |----------------|-------------------------------|
 |AWS     |[What is AWS Secrets Manager? - AWS Secrets Manager (amazon.com)](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)            |
 |Azure   |[Key and secret management in Azure - Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/security/design-storage-keys) |
