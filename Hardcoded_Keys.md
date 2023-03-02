@@ -21,6 +21,8 @@
 
 - [OWASP/wrongsecrets: Vulnerable app with examples showing how to not use secrets (github.com)](https://github.com/OWASP/wrongsecrets)
 
-## Related CWEs
+## Related Resources
 
 - [CWE - CWE-321: Use of Hard-coded Cryptographic Key (4.10) (mitre.org)](https://cwe.mitre.org/data/definitions/321.html)
+- [CRE - Ensure keys and passwords are replaceable (opencre.org)](https://www.opencre.org/cre/821-832)
+- [CRE - Store cryptographic keys securely (opencre.org)](https://www.opencre.org/cre/783-255)
